@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="gif/banner.gif"/>
+</div>
+
 <h2 align="center">Olá 👋! Seja bem vindo!</h2>
 
 ###
