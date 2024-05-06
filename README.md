@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/malizzy-b/malizzy-b/output/snake.svg" alt="Snake animation" />
+<img src="workflow/grid-snake.gif" alt="Snake animation" />
 
 ###
